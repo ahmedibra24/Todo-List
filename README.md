@@ -56,10 +56,16 @@ A simple and effective task management application that helps users organize the
 ---
 
 ## Screenshots
-
+- Home
 ![Home](./screenshots/cover.png)  
+
+- Completed Tasks
 ![Completed Tasks](./screenshots/screen1.png)  
+
+- Incomplete Tasks
 ![Incomplete Tasks](./screenshots/screen2.png)  
+
+- Delete Tasks
 ![Delete Tasks](./screenshots/screen3.png)  
 
 ---
